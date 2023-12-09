@@ -1,4 +1,11 @@
 # 437_Final_Project
+Team:
+- Aiden Walker
+- Ethan Nelson
+- Reed Havens
+
+Project: Classification of Vaccine Attitude by Tweet Content
+
 Team repo for CS437 Final Project, Fall 2023.
 
 This is the repo for the CS 437 Final Project, Fall 2023. This repo contains all submission deliverables, including the presentation, slides, and hard-copies of the project code. The Project Video Presentation and Colab Demo Walkthrough are linked in the Project Write-Up PDF, as well as below:
